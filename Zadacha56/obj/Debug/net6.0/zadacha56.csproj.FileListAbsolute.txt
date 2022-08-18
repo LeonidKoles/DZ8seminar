@@ -1,0 +1,15 @@
+C:\Users\leon-\Desktop\ДЗ  семинары\ДЗ8сем\zadacha56\bin\Debug\net6.0\zadacha56.exe
+C:\Users\leon-\Desktop\ДЗ  семинары\ДЗ8сем\zadacha56\bin\Debug\net6.0\zadacha56.deps.json
+C:\Users\leon-\Desktop\ДЗ  семинары\ДЗ8сем\zadacha56\bin\Debug\net6.0\zadacha56.runtimeconfig.json
+C:\Users\leon-\Desktop\ДЗ  семинары\ДЗ8сем\zadacha56\bin\Debug\net6.0\zadacha56.dll
+C:\Users\leon-\Desktop\ДЗ  семинары\ДЗ8сем\zadacha56\bin\Debug\net6.0\zadacha56.pdb
+C:\Users\leon-\Desktop\ДЗ  семинары\ДЗ8сем\zadacha56\obj\Debug\net6.0\zadacha56.csproj.AssemblyReference.cache
+C:\Users\leon-\Desktop\ДЗ  семинары\ДЗ8сем\zadacha56\obj\Debug\net6.0\zadacha56.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leon-\Desktop\ДЗ  семинары\ДЗ8сем\zadacha56\obj\Debug\net6.0\zadacha56.AssemblyInfoInputs.cache
+C:\Users\leon-\Desktop\ДЗ  семинары\ДЗ8сем\zadacha56\obj\Debug\net6.0\zadacha56.AssemblyInfo.cs
+C:\Users\leon-\Desktop\ДЗ  семинары\ДЗ8сем\zadacha56\obj\Debug\net6.0\zadacha56.csproj.CoreCompileInputs.cache
+C:\Users\leon-\Desktop\ДЗ  семинары\ДЗ8сем\zadacha56\obj\Debug\net6.0\zadacha56.dll
+C:\Users\leon-\Desktop\ДЗ  семинары\ДЗ8сем\zadacha56\obj\Debug\net6.0\refint\zadacha56.dll
+C:\Users\leon-\Desktop\ДЗ  семинары\ДЗ8сем\zadacha56\obj\Debug\net6.0\zadacha56.pdb
+C:\Users\leon-\Desktop\ДЗ  семинары\ДЗ8сем\zadacha56\obj\Debug\net6.0\zadacha56.genruntimeconfig.cache
+C:\Users\leon-\Desktop\ДЗ  семинары\ДЗ8сем\zadacha56\obj\Debug\net6.0\ref\zadacha56.dll
